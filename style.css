@@ -1,0 +1,26 @@
+body {
+    font-family: 'poppins', sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+}
+
+.card {
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 400px;
+}
+
+h1 {
+    color: #00abf0; 
+}
+
+
+p {
+    color: #000000;
+    /* position: relative; */
+    text-align: center;
+    
+}
